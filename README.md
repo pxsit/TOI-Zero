@@ -6,4 +6,4 @@ The awnsers in this repository should only be used for educational purposes or t
 [PakinDioxide's Code](https://github.com/PakinDioxide/TOI-zero) Has the same purposes but with diffrent codes and inspired this readme
 
 # LICENSE (Modified BSD 3-Clause License)
-[ต้องขออนุญาตก่อนเผยแพร่หรือเพื่อการค้าหรือการดัดแปลงใดๆทั้งสิ้น](https://github.com/pxsit/TOI-Zero/blob/main/LICENSE)
+[ต้องขออนุญาตก่อนใช้โค้ดนี้ในการทำการค้าหรือการดัดแปลงใดๆทั้งสิ้น และต้องใหcreditแก่copyright owner หากเผยแพร่](https://github.com/pxsit/TOI-Zero/blob/main/LICENSE)
