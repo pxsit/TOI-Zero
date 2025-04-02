@@ -4,3 +4,6 @@ The awnsers in this repository should only be used for educational purposes or t
 ควรใช้โค้ดนี้เพื่อวัตถุประสงค์ทางการศึกษาหรือเพื่อทำความเข้าใจเพิ่มเติมเกี่ยวกับการเขียนโปรแกรมเท่านั้น ไม่ได้มีไว้คัดลอกเพื่อส่งเอาคะแนนเพียงอย่างเดียว แต่จะทำให้เข้าใจและสามารถนำไปเขียนต่อยอดได้
 
 [PakinDioxide's Code](https://github.com/PakinDioxide/TOI-zero) Has the same purposes but with diffrent codes and inspired this readme
+
+# LICENSE (Modified BSD 3-Clause License)
+[ต้องขออนุญาตก่อนเผยแพร่หรือเพื่อการค้าหรือการดัดแปลงใดๆทั้งสิ้น](https://github.com/pxsit/TOI-Zero/blob/main/LICENSE)
