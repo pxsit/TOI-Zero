@@ -5,5 +5,5 @@ The awnsers in this repository should only be used for educational purposes or t
 
 [PakinDioxide's Code](https://github.com/PakinDioxide/TOI-zero) Has the same purposes but with diffrent codes and inspired this readme
 
-# (https://github.com/pxsit/TOI-Zero/blob/main/LICENSE)
+# [LICENSE](https://github.com/pxsit/TOI-Zero/blob/main/LICENSE)
 ห้ามใช้ชื่อคุณเพื่อโปรโมตหรือรับรองผลิตภัณฑ์ หากไม่ได้รับอนุญาต และต้องให้เครดิตเจ้าของเสมอ
