@@ -12,11 +12,11 @@ int main(){
         cin >> a[i];
     }
     vector<bool> visited(n + 1, false);
-    int curr = s, ans = 0; 
-    while (curr != 0 && !visited[curr]){
-        visited[curr] = true;
+    int ans = 0; 
+    while (s != 0 && !visited[s]){
+        visited[s] = true;
         ans++;
-        curr = a[curr];
+        s = a[s];
     }
     cout << ans;
 }
