@@ -30,7 +30,7 @@ int main(){
     string d;
     if(b == "D") d = "diamonds";
     else if(b == "H") d = "hearts";
-    else if(b == "S") d = "' 'ades";
+    else if(b == "S") d = "spades";
     else if(b == "C") d = "clubs";
     cout << c << " of " << d;
 }
