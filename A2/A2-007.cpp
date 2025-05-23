@@ -2,14 +2,9 @@
 #include <bits/stdc++.h>
 using namespace std;
 vector<vector<int>> adj; 
-vector<int> p; 
-vector<int> sz; 
-vector<bool> ist; 
-vector<bool> htd; 
+vector<int> p,tl,it,et,sz; 
+vector<bool> ist,htd; 
 vector<pair<int, int>> cords; 
-vector<int> tl; 
-vector<int> it; 
-vector<int> et; 
 int tt; 
 void dfss(int u, vector<bool>& visited){
     visited[u] = true; 
