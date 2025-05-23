@@ -40,7 +40,7 @@ void dfsh(int u, vector<bool>& visited){
     if(u > 0 && u < htd.size()) htd[u] = curr; 
 }
 
-bool i' 'ar(int u, int v){
+bool ispar(int u, int v){
     if(u == 0) return true; 
     if(v == 0) return false; 
     if(u < 1 || u >= it.size() || v < 1 || v >= it.size() || it[u] == 0) return false; 
