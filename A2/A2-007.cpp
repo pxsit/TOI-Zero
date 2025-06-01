@@ -2,9 +2,9 @@
 #include <bits/stdc++.h>
 using namespace std;
 vector<vector<int>> adj; 
-vector<int> p,tl,it,et,sz; 
+vector<int> p,sz,tl,it,et; 
 vector<bool> ist,htd; 
-vector<pair<int, int>> cords; 
+vector<pair<int, int>> cords;
 int tt; 
 void dfss(int u, vector<bool>& visited){
     visited[u] = true; 
@@ -144,7 +144,7 @@ int main(){ios::sync_with_stdio(false);cin.tie(nullptr);
                     all = false; 
                 }else{
                     for (int t : targv[s]){
-                        if(!i' 'ar(c, t)){
+                        if(!ispar(c, t)){
                             all = false; 
                             break; 
                         }
