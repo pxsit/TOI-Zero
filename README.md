@@ -1,7 +1,17 @@
 # [TOI-Zero](https://toi-coding.informatics.buu.ac.th/home/)
 
-The awnsers in this repository should only be used for educational purposes or to study and further understand competitive programming, It is not for copying and get free points, But instead it is to help understand and rewrite it as your own.
+The solutions in this repository are provided strictly for educational purposes.
+They are intended to help readers study, understand, and learn competitive
+programming techniques.
 
-ควรใช้โค้ดนี้เพื่อวัตถุประสงค์ทางการศึกษาหรือเพื่อทำความเข้าใจเพิ่มเติมเกี่ยวกับการเขียนโปรแกรมเท่านั้น ไม่ได้มีไว้คัดลอกเพื่อส่งเอาคะแนนเพียงอย่างเดียว แต่จะทำให้เข้าใจและสามารถนำไปเขียนต่อยอดได้
+These solutions are NOT meant to be copied and submitted directly to obtain
+points. Instead, they should be used as references to understand the ideas
+behind the solutions and to rewrite them in your own code.
+
+โค้ดและวิธีแก้ปัญหาในคลังนี้จัดทำขึ้นเพื่อวัตถุประสงค์ทางการศึกษาเท่านั้น
+เพื่อช่วยในการศึกษา ทำความเข้าใจ และเรียนรู้แนวคิดในการแข่งขันเขียนโปรแกรม
+
+ไม่ได้มีจุดประสงค์เพื่อคัดลอกไปส่งเพื่อเอาคะแนนโดยตรง
+แต่ควรใช้เป็นแนวทางในการเรียนรู้ ทำความเข้าใจ และนำไปเขียนใหม่ด้วยตนเอง
 
 [Problem Sheet Link](https://docs.google.com/spreadsheets/d/1tey-HAXgN9oMz0oQlViAY7E7fLdCbTcCh2xzNFBZ4Bg)
