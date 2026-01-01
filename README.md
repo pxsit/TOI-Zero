@@ -15,3 +15,5 @@ behind the solutions and to rewrite them in your own code.
 แต่ควรใช้เป็นแนวทางในการเรียนรู้ ทำความเข้าใจ และนำไปเขียนใหม่ด้วยตนเอง
 
 [Problem Sheet Link](https://docs.google.com/spreadsheets/d/1tey-HAXgN9oMz0oQlViAY7E7fLdCbTcCh2xzNFBZ4Bg)
+
+[Toi-Zero Extension Link](https://github.com/pxsit/cms-extension)
